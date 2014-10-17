@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zax:home|Door43 (zax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zax|d43-zax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zax/archive/master.zip|d43-zax.zip]]
+
+**Recent Changes**
+{{changes>ns = zax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zax|Ethnologue data]]
+
